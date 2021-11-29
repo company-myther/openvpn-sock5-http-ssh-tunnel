@@ -1,6 +1,6 @@
 ## openvpn to socks5, http proxy, ssh tunnel
 
-## use:
+### use:
 ```yaml
 version: "3"
 services:
